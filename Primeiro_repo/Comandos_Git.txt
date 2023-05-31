@@ -10,6 +10,7 @@ git checkout [arquivo]
 git commit [arquivo] -m "Mensagem do commit"
 git branch -M master
 git remote add origin [link do arquivo]
+git reset --hard [branch]
 git push -u origin master
 git push
 git pull
