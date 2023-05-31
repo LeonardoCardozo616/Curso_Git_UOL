@@ -1,6 +1,10 @@
 Git
 git init
+git clone [endereço] .
+git status
+git log
 git add [arquivo]
+git rm [arquivo]
 git commit [arquivo] -m "Mensagem do commit"
 git branch -M master
 git remote add origin [link do arquivo]
