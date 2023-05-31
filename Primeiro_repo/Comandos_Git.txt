@@ -1,0 +1,7 @@
+Git
+git init
+git add [arquivo]
+git commit -m "Mensagem do commit"
+git branch -M master
+git remote add origin [link do arquivo]
+git pish -u origin master
