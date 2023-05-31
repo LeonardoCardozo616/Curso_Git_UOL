@@ -5,6 +5,8 @@ git status
 git log
 git add [arquivo]
 git rm [arquivo]
+git mv [arquivo] [diretório/novo nome do arquivo]
+git checkout [arquivo]
 git commit [arquivo] -m "Mensagem do commit"
 git branch -M master
 git remote add origin [link do arquivo]
