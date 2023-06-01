@@ -1,1 +1,9 @@
-git fetch
+git fetch -a
+git pull
+git push
+git remote -v
+git remote rm origin [link]
+git remote add origin [link]
+git submodule
+git submodule add [repo]
+git push --recurse-submodules=on-demand
