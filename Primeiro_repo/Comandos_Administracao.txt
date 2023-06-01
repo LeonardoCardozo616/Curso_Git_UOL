@@ -1,0 +1,5 @@
+git clean
+git gc
+git fsck
+git reflog
+git archive --format zip --output [nome do arquivo zip] master
