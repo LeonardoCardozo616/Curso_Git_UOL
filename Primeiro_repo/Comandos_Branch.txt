@@ -2,4 +2,14 @@ git branch [branch]
 git branch checkout -b [branch]
 git branch -d [branch]
 git branch checkout [branch]
+git stash
+git stash list
+git stash apply [número]
+git stash show -p [número]
+git stash clear
+git stash drop [número]
+git tag
+git tag -a [tag] -m "Mensagem"
+git show [tag]
+git checkout [tag]
 git merge [branch]
