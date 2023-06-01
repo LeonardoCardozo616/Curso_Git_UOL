@@ -7,4 +7,3 @@ git remote add origin [link]
 git submodule
 git submodule add [repo]
 git push --recurse-submodules=on-demand
-teste clone
