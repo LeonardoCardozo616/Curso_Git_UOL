@@ -1,0 +1,4 @@
+git show
+git diff [branch]
+git log
+git shortlog
